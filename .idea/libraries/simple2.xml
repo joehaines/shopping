@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="simple">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/simple/simple-4.1.13-javadoc.zip.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lib/simple/simple-4.1.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/simple/simple-4.1.13-src.zip.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

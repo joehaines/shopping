@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="fit">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/fit/fitlibraryRunner-20070110.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/fit/fitLibraryRunner-20070110-src.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
